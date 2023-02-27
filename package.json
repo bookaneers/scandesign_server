@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "startServer": "set PORT=9001 && node server.js",
-    "devServer": "set PORT=9001 && nodemon server.js"
+    "startServer": "set PORT=9000 && node server.js",
+    "devServer": "set PORT=9000 && nodemon server.js"
   },
   "repository": {
     "type": "git",
